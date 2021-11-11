@@ -3,5 +3,7 @@ h1{
 }
 header{
     font-family: sans-serif;
-
+}
+.navList{
+    list-style-type: none;
 }
