@@ -1,9 +1,23 @@
 body{
-    background-color: #c8ffaf;
-}
-header{
+    background-color: #aff3ff;
     font-family: sans-serif;
 }
-.navList{
+header{
+    background-color: grey;
+}
+.headerText{
+    padding: 5px;
+    margin: 5px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.navButtons{
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    float: right;
+    padding: 10px;
+    width: 450px;
 }
