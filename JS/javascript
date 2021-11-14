@@ -1,4 +1,3 @@
-
 // Sticky navBar , when user scrolls execute myFunction.
 window.onscroll = function() {myFunction()};
 // Get the navBar
