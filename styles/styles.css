@@ -18,11 +18,19 @@ header{
     border-color: grey;
 }
 h1{
+    font-weight: bolder;
     font-size: 60px;
     margin: 20px;
 }
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
 /*layout for navigation bar*/
-.navBar{
+#navBar{
     font-family: "Arapey";
     list-style-type: none;
     display: flex;
@@ -41,10 +49,29 @@ Button{
     font-family: "Arapey";
     font-weight: bolder;
     font-size: large;
-    border-radius: 50%;
+    border-radius: 40%;
     padding: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+main{
+    position: absolute;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+}
+p{
+    font-size: 20px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background:rgb(236, 194, 114);
+    text-align: center;
+    border-top: solid;
+    border-color: grey;
 }
 
   
