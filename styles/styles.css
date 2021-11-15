@@ -66,17 +66,8 @@ Button{
     position: relative;
     width: 100%;
 }
-/*About me section flexbox text and image*/
-.amPic{
-    height: auto;
-    width: 30%;
-    margin-right: 1%;
-    margin-left: 1%;
-}
-.amText{
-width: 65%;
-}
-/*My Interests section flexbox text and image*/
+
+/*My next to text pictures section flexbox text and image*/
 .intPic{
     height: auto;
     width: 30%;
@@ -108,4 +99,5 @@ footer{
     border-color: grey;
 }
 
+/*Small images next to small text in projects section - is this needed of just add links below??.
   
