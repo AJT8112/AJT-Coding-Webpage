@@ -17,6 +17,11 @@ header{
     border: solid;
     border-color: grey;
 }
+button a{
+    font-family: "Arapey";
+    color: white;
+    text-decoration: none;
+}
 h1{
     font-weight: bolder;
     font-size: 60px;
